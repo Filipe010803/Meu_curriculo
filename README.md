@@ -6,7 +6,7 @@
   Projeto criado para apresentar minhas habilidades como desenvolvedor web
 </p>
 
-[Clique aqui para acessar](https://curriculo-9z622mg80-filipe010803.vercel.app/)
+[Clique aqui para acessar](https://meu-curriculo-23eaat9ir-filipe010803.vercel.app/)
 
 ## Tecnologias
 
