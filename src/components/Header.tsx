@@ -44,7 +44,7 @@ export function Header() {
                     <li>HTML</li>
                     <li>CSS</li>
                     <li>JS</li>
-                    <li>TypeSkript</li>
+                    <li>TypeScript</li>
                     <li>Inglês básico</li>
                     <li>Lógica de programação</li>
                 </ul>
